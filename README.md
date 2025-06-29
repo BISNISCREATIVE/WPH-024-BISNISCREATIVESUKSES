@@ -55,3 +55,4 @@ Check this module: [click this](https://orchid-clematis-3e4.notion.site/Panduan-
 🎉 Congratulations on working on this assignment! Utilize the _playground_ feature in Figma to help you understand how the design should look on various devices. Keep experimenting and don't hesitate to look for references if you encounter difficulties. You can definitely produce great work! 🚀 Keep up the spirit, cheers!! 🎈
 
 Vercel Deployment: [https://wph-024-bisniscreative.vercel.app/](https://wph-024-bisniscreative.vercel.app/)
+VERCEL DEPLOYMENT: https://wph-024-bisniscreative.vercel.app/
